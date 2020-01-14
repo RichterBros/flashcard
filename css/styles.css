@@ -9,3 +9,11 @@
 .red-background {
   background-color: red;
 }
+
+#text-showing1 {
+  display: none;
+}
+
+#text-showing2 {
+  display: none;
+}
